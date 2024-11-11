@@ -23,7 +23,7 @@ export default function Weather() {
                     Wednesday 7:00
                 </li>
                 <li>
-                    Mostly Cloudy
+                    Sunny
                 </li>
             </ul>
             <div className="row mt-3">
